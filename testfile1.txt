@@ -1,1 +1,2 @@
 version1
+compare v1.2
