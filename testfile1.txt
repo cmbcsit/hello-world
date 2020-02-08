@@ -8,3 +8,5 @@ compare v1.2
 2020.02.08 master
 2020.02.08 产生分支dev , 在分支 上加入本条
 2020.02.08 修改了 master 加入本行
+2020.02.08 dev add
+2020.02.08 master and dev merged 
